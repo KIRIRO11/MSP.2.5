@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 04:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 04:11:56 +0000"
@@ -954,6 +960,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-20 04:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 04:20:27 +0000"
     },
     "done": true
   },

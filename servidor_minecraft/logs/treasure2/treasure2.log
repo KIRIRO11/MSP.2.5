@@ -63,3 +63,4 @@
 2024-12-20 04:11:12,466 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 152 64 40
 2024-12-20 04:11:15,775 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: 168 63 152
 2024-12-20 04:17:16,029 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! SCARCE chest at coords: -120 48 -168
+2024-12-20 04:26:58,386 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: -40 64 -184
