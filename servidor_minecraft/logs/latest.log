@@ -693,3 +693,70 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [04:09:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 was slain by Cave Spider
 [04:09:35] [Server thread/INFO] [tombstone]: The last known grave of TULIO235 is at location [name:Last Grave, x:-75, y:76, z:111] in the dimension 0
 [04:09:35] [Server thread/INFO] [tombstone]: TULIO235 has successfully been saved
+[04:10:41] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-6, -7] in dimension 0 (overworld) while populating chunk [-5, -6], causing cascading worldgen lag.
+[04:10:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:10:41] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -80 | -96 ], underground: false
+[04:11:13] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:11:13] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:11:13] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:11:14] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [10, -6] in dimension 0 (overworld) while populating chunk [10, -7], causing cascading worldgen lag.
+[04:11:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:11:14] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [11, -4] in dimension 0 (overworld) while populating chunk [10, -4], causing cascading worldgen lag.
+[04:11:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:11:14] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [11, -5] in dimension 0 (overworld) while populating chunk [10, -4], causing cascading worldgen lag.
+[04:11:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:11:15] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [10, 7] in dimension 0 (overworld) while populating chunk [10, 6], causing cascading worldgen lag.
+[04:11:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:11:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has made the advancement [Acquire Hardware]
+[04:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 was shot by Army Soldier
+[04:12:36] [Server thread/INFO] [tombstone]: The last known grave of TULIO235 is at location [name:Last Grave, x:24, y:63, z:25] in the dimension 0
+[04:12:36] [Server thread/INFO] [tombstone]: TULIO235 has successfully been saved
+[04:12:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG was shot by Army Soldier
+[04:12:37] [Server thread/INFO] [tombstone]: The last known grave of KIRIRO11GG is at location [name:Last Grave, x:30, y:63, z:24] in the dimension 0
+[04:12:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has made the advancement [Your First Grave]
+[04:12:37] [Server thread/INFO] [tombstone]: KIRIRO11GG has successfully been saved
+[04:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set KIRIRO11GG's game mode to Creative Mode
+[04:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 has made the advancement [The Most Useful Key]
+[04:13:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 has reached the goal [A Fast Comeback]
+[04:13:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [12, 1] in dimension 0 (overworld) while populating chunk [11, 1], causing cascading worldgen lag.
+[04:13:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [11, 2] in dimension 0 (overworld) while populating chunk [12, 1], causing cascading worldgen lag.
+[04:13:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [12, 2] in dimension 0 (overworld) while populating chunk [12, 1], causing cascading worldgen lag.
+[04:13:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [11, 4] in dimension 0 (overworld) while populating chunk [11, 3], causing cascading worldgen lag.
+[04:13:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [12, 5] in dimension 0 (overworld) while populating chunk [11, 5], causing cascading worldgen lag.
+[04:13:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has reached the goal [Here They Come]
+[04:13:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set KIRIRO11GG's game mode to Survival Mode
+[04:13:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has made the advancement [The Most Useful Key]
+[04:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has reached the goal [A Fast Comeback]
+[04:13:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG got revenge on Army Soldier
+[04:13:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG was shot by Army Soldier
+[04:13:48] [Server thread/INFO] [tombstone]: The last known grave of KIRIRO11GG is at location [name:Last Grave, x:31, y:63, z:22] in the dimension 0
+[04:13:48] [Server thread/INFO] [tombstone]: KIRIRO11GG has successfully been saved
+[04:14:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set KIRIRO11GG's game mode to Creative Mode
+[04:14:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG got revenge on Army Soldier
+[04:15:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set KIRIRO11GG's game mode to Survival Mode
+[04:17:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 has made the advancement [Magic Writing]
+[04:17:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 has made the advancement [Acquire Hardware]
+[04:17:16] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [-7, -11] in dimension 0 (overworld) while populating chunk [-8, -11], causing cascading worldgen lag.
+[04:17:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:17:16] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [8, -12] in dimension 0 (overworld) while populating chunk [9, -11], causing cascading worldgen lag.
+[04:17:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:17:16] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 144 | -176 ], underground: false
+[04:17:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 was shot by Army Soldier
+[04:17:17] [Server thread/INFO] [tombstone]: The last known grave of TULIO235 is at location [name:Last Grave, x:24, y:63, z:0] in the dimension 0
+[04:17:17] [Server thread/INFO] [tombstone]: TULIO235 has successfully been saved
+[04:17:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG was shot by Commando
+[04:17:30] [Server thread/INFO] [tombstone]: The last known grave of KIRIRO11GG is at location [name:Last Grave, x:21, y:68, z:-3] in the dimension 0
+[04:17:30] [Server thread/INFO] [tombstone]: KIRIRO11GG has successfully been saved
+[04:17:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 got revenge on Army Soldier
+[04:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has reached the goal [Chain Death]
+[04:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG was shot by Commando
+[04:18:01] [Server thread/INFO] [tombstone]: The last known grave of KIRIRO11GG is at location [name:Last Grave, x:28, y:68, z:6] in the dimension 0
+[04:18:01] [Server thread/INFO] [tombstone]: KIRIRO11GG has successfully been saved
+[04:18:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set KIRIRO11GG's game mode to Creative Mode
+[04:19:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG got revenge on Commando
+[04:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG got revenge on Commando

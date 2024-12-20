@@ -60,3 +60,6 @@
 2024-12-20 03:49:38,364 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/ruinous_ruleset.json at ./world/data/decay/treasure2/rulesets/ruinous_ruleset.json but it doesn't exist.
 2024-12-20 03:49:44,344 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! SCARCE chest at coords: 14 32 216
 2024-12-20 04:08:43,572 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! RARE chest at coords: 56 34 -16
+2024-12-20 04:11:12,466 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 152 64 40
+2024-12-20 04:11:15,775 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: 168 63 152
+2024-12-20 04:17:16,029 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! SCARCE chest at coords: -120 48 -168
