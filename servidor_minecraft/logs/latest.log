@@ -864,3 +864,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [04:38:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KIRIRO11GG[/127.250.37.21:45019] logged in with entity id 217205 at (32.370094993872286, 68.0, 16.577977055386988)
 [04:38:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG joined the game
 [04:38:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has made the advancement [Mysterious Gift]
+[04:41:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KIRIRO11GG lost connection: Timed out
+[04:41:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG left the game
+[04:41:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TULIO235 lost connection: Disconnected
+[04:41:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 left the game
