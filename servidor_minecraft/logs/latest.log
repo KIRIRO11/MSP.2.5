@@ -848,3 +848,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [04:28:03] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [13, 4] in dimension 0 (overworld) while populating chunk [13, 3], causing cascading worldgen lag.
 [04:28:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [04:28:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported TULIO235 to KIRIRO11GG
+[04:30:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Entity 'KIRIRO11' cannot be found
+[04:32:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 has made the advancement [Best Friends Forever]
+[04:32:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 was shot by Attack Helicopter
+[04:32:24] [Server thread/INFO] [tombstone]: The last known grave of TULIO235 is at location [name:Last Grave, x:21, y:68, z:13] in the dimension 0
+[04:32:24] [Server thread/INFO] [tombstone]: TULIO235 has successfully been saved
+[04:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TULIO235 has made the advancement [Monster Hunter]
+[04:33:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set TULIO235's game mode to Creative Mode
+[04:37:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KIRIRO11GG lost connection: Disconnected
+[04:37:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG left the game
+[04:38:18] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[04:38:18] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 48 mods : minecraft@1.12.2,mowziesmobs@1.5.8,disenchanter@1.8,mixinbooter@9.1,biomesoplenty@7.0.1.2445,healthbar@1.0.7,silentlib@3.0.13,torohud@1.12.2-5,baubles@1.5.2,mca@6.1.0,treasure2@2.2.0,battletowers@1.6.5,minions@2.0.3,jei@4.16.1.1012,reccomplex@1.4.8.5,vehicle@0.44.1,hammertime@2.2.0,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,antonicraftmod@1.0.0,extrautils2@1.0,techguns_core@1.12.2-1.0,roguelike@1.8.0,sexmod@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p2,securitycraft@v1.9.9,travelersbackpack@1.0.35,elevatorid@1.3.14,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.1,tombstone@4.6.7,bookshelf@2.3.590,betteranimationscollection2@1.0.2,llibrary@1.7.20,srparasites@1.9.21,appleskin@1.0.14,cfm@6.3.0,grimoireofgaia@1.7.2,iceandfire@1.9.1,bibliotheca@1.3.6-1.12.2,forge@14.23.5.2860,scalinghealth@1.3.37,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844,techguns@2.0.2.0
+[04:38:18] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[04:38:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:38:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KIRIRO11GG[/127.250.37.21:45019] logged in with entity id 217205 at (32.370094993872286, 68.0, 16.577977055386988)
+[04:38:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG joined the game
+[04:38:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has made the advancement [Mysterious Gift]
