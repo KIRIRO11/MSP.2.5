@@ -265,3 +265,16 @@
 2024-12-21 01:08:34,879 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: -232 67 -88
 2024-12-21 01:13:35,169 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: -72 64 -104
 2024-12-21 01:44:19,667 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: 56 64 -120
+2024-12-21 02:04:44,431 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: -1320 63 -328
+2024-12-21 02:04:45,622 [Server thread] INFO Treasure2 | WellGenerator.java:123 | CHEATER! Wishing Well at coords: -1194 74 -360
+2024-12-21 02:04:47,554 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: -1144 72 -328
+2024-12-21 02:04:48,840 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: -1272 64 -424
+2024-12-21 02:04:50,697 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! SCARCE chest at coords: -1208 69 -248
+2024-12-21 02:04:52,689 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: -1096 71 -456
+2024-12-21 02:04:56,069 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! RARE chest at coords: -1112 81 -232
+2024-12-21 02:04:58,833 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: -1304 64 -200
+2024-12-21 02:05:07,129 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: -1032 64 -520
+2024-12-21 02:05:10,777 [Server thread] INFO Treasure2 | WitherTreeWorldGenerator.java:354 | CHEATER! wither chest at coords: -1176 70 -536
+2024-12-21 02:05:11,017 [Server thread] INFO Treasure2 | WellGenerator.java:123 | CHEATER! Wishing Well at coords: -1146 68 -536
+2024-12-21 02:13:46,005 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! SCARCE chest at coords: -1368 70 -536
+2024-12-21 02:16:21,801 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: -1416 69 -440
