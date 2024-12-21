@@ -706,3 +706,56 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [01:25:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has made the advancement [Isn't It Iron Pick]
 [01:25:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Creative Mode]
 [01:25:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Survival Mode]
+[01:27:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to XAnonimusCrackX]
+[01:27:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Teleported KIRIRO11GG to XAnonimusCrackX]
+[01:28:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX has made the advancement [Acquire Hardware]
+[01:28:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has made the advancement [Suit Up]
+[01:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX has made the advancement [Suit Up]
+[01:29:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo has made the advancement [Suit Up]
+[01:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to KIRIRO11GG]
+[01:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Creative Mode]
+[01:33:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX was slain by jwodo
+[01:33:13] [Server thread/INFO] [tombstone]: The last known grave of XAnonimusCrackX is at location [name:Last Grave, x:-55, y:7, z:103] in the dimension 0
+[01:33:13] [Server thread/INFO] [tombstone]: XAnonimusCrackX has successfully been saved
+[01:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo has made the advancement [Knowledge of Death]
+[01:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo has made the advancement [Funeral Theft]
+[01:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo has reached the goal [Discreet Search]
+[01:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Survival Mode]
+[01:33:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported XAnonimusCrackX to jwodo]
+[01:33:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX has made the advancement [Knowledge of Death]
+[01:33:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX has reached the goal [Here They Come]
+[01:34:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Creative Mode]
+[01:34:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Survival Mode]
+[01:36:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has made the advancement [A Strange Grave's Dust]
+[01:37:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to KIRIRO11GG]
+[01:37:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX was slain by jwodo
+[01:37:53] [Server thread/INFO] [tombstone]: The last known grave of XAnonimusCrackX is at location [name:Last Grave, x:-105, y:63, z:94] in the dimension 0
+[01:37:53] [Server thread/INFO] [tombstone]: XAnonimusCrackX has successfully been saved
+[01:38:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo was slain by El Piola
+[01:38:57] [Server thread/INFO] [tombstone]: The last known grave of jwodo is at location [name:Last Grave, x:-112, y:61, z:93] in the dimension 0
+[01:38:57] [Server thread/INFO] [tombstone]: jwodo has successfully been saved
+[01:39:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to XAnonimusCrackX]
+[01:39:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo has reached the goal [Here They Come]
+[01:41:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX was killed by magic
+[01:41:00] [Server thread/INFO] [tombstone]: The last known grave of XAnonimusCrackX is at location [name:Last Grave, x:-119, y:63, z:95] in the dimension 0
+[01:41:00] [Server thread/INFO] [tombstone]: XAnonimusCrackX has successfully been saved
+[01:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported XAnonimusCrackX to jwodo]
+[01:42:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:43:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported XAnonimusCrackX to jwodo]
+[01:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to KIRIRO11GG]
+[01:43:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Teleported KIRIRO11GG to XAnonimusCrackX]
+[01:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo got revenge on El Piola
+[01:44:19] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [1, -10] in dimension 0 (overworld) while populating chunk [2, -9], causing cascading worldgen lag.
+[01:44:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:44:19] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 32 | -144 ], underground: false
+[01:44:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Creative Mode]
+[01:44:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Survival Mode]
+[01:45:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to KIRIRO11GG]
+[01:45:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to KIRIRO11GG]
+[01:46:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Creative Mode]
+[01:46:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX was killed by magic
+[01:46:06] [Server thread/INFO] [tombstone]: The last known grave of XAnonimusCrackX is at location [name:Last Grave, x:-109, y:63, z:104] in the dimension 0
+[01:46:06] [Server thread/INFO] [tombstone]: XAnonimusCrackX has successfully been saved
+[01:46:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Survival Mode]
+[01:46:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: XAnonimusCrackX moved too quickly! -9.445357218466029,1.252203340253729,-3.312665542236715
+[01:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported XAnonimusCrackX to jwodo]

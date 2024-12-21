@@ -29001,3 +29001,314 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [01:25:49] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 175 times.
 
 [01:25:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:26:39] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 180 times.
+
+[01:26:39] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 180 times.
+
+[01:26:39] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 180 times.
+
+[01:26:39] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 180 times.
+
+[01:26:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:27:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to XAnonimusCrackX]
+[01:27:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Teleported KIRIRO11GG to XAnonimusCrackX]
+[01:27:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:27:29] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 185 times.
+
+[01:27:29] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 185 times.
+
+[01:27:29] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 185 times.
+
+[01:27:29] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 185 times.
+
+[01:28:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:28:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX has made the advancement [Acquire Hardware]
+[01:28:19] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 190 times.
+
+[01:28:19] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 190 times.
+
+[01:28:19] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 190 times.
+
+[01:28:19] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 190 times.
+
+[01:28:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has made the advancement [Suit Up]
+[01:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX has made the advancement [Suit Up]
+[01:28:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo has made the advancement [Suit Up]
+[01:29:09] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 195 times.
+
+[01:29:09] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 195 times.
+
+[01:29:09] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 195 times.
+
+[01:29:09] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 195 times.
+
+[01:29:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:59] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 200 times.
+
+[01:29:59] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 200 times.
+
+[01:29:59] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 200 times.
+
+[01:29:59] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 200 times.
+
+[01:30:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to KIRIRO11GG]
+[01:30:49] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 205 times.
+
+[01:30:49] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 205 times.
+
+[01:30:49] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 205 times.
+
+[01:30:49] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 205 times.
+
+[01:31:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:31:39] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 210 times.
+
+[01:31:39] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 210 times.
+
+[01:31:39] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 210 times.
+
+[01:31:39] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 210 times.
+
+[01:31:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:32:29] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 215 times.
+
+[01:32:29] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 215 times.
+
+[01:32:29] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 215 times.
+
+[01:32:29] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 215 times.
+
+[01:32:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Creative Mode]
+[01:33:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX was slain by jwodo
+[01:33:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for XAnonimusCrackX is 0.001
+[01:33:13] [Server thread/INFO] [tombstone]: The last known grave of XAnonimusCrackX is at location [name:Last Grave, x:-55, y:7, z:103] in the dimension 0
+[01:33:13] [Server thread/INFO] [tombstone]: XAnonimusCrackX has successfully been saved
+[01:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo has made the advancement [Knowledge of Death]
+[01:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo has made the advancement [Funeral Theft]
+[01:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo has reached the goal [Discreet Search]
+[01:33:19] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 220 times.
+
+[01:33:19] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 220 times.
+
+[01:33:19] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 220 times.
+
+[01:33:19] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 220 times.
+
+[01:33:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Survival Mode]
+[01:33:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported XAnonimusCrackX to jwodo]
+[01:33:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX has made the advancement [Knowledge of Death]
+[01:33:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX has reached the goal [Here They Come]
+[01:34:09] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 225 times.
+
+[01:34:09] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 225 times.
+
+[01:34:09] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 225 times.
+
+[01:34:09] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 225 times.
+
+[01:34:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:34:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Farmer is 0.01
+[01:34:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Creative Mode]
+[01:34:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:34:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Survival Mode]
+[01:34:59] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 230 times.
+
+[01:34:59] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 230 times.
+
+[01:34:59] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 230 times.
+
+[01:34:59] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 230 times.
+
+[01:35:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:35:49] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 235 times.
+
+[01:35:49] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 235 times.
+
+[01:35:49] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 235 times.
+
+[01:35:49] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 235 times.
+
+[01:35:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Miner is 0.01
+[01:36:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Farmer is 0.01
+[01:36:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KIRIRO11GG has made the advancement [A Strange Grave's Dust]
+[01:36:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:36:39] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 240 times.
+
+[01:36:39] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 240 times.
+
+[01:36:39] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 240 times.
+
+[01:36:39] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 240 times.
+
+[01:36:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Incomplete Form is 0.01
+[01:37:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:37:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to KIRIRO11GG]
+[01:37:29] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 245 times.
+
+[01:37:29] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 245 times.
+
+[01:37:29] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 245 times.
+
+[01:37:29] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 245 times.
+
+[01:37:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX was slain by jwodo
+[01:37:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for XAnonimusCrackX is 0.001
+[01:37:53] [Server thread/INFO] [tombstone]: The last known grave of XAnonimusCrackX is at location [name:Last Grave, x:-105, y:63, z:94] in the dimension 0
+[01:37:53] [Server thread/INFO] [tombstone]: XAnonimusCrackX has successfully been saved
+[01:37:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:38:19] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 250 times.
+
+[01:38:19] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 250 times.
+
+[01:38:19] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 250 times.
+
+[01:38:19] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 250 times.
+
+[01:38:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:38:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo was slain by El Piola
+[01:38:57] [Server thread/INFO] [tombstone]: The last known grave of jwodo is at location [name:Last Grave, x:-112, y:61, z:93] in the dimension 0
+[01:38:57] [Server thread/INFO] [tombstone]: jwodo has successfully been saved
+[01:39:09] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 255 times.
+
+[01:39:09] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 255 times.
+
+[01:39:09] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 255 times.
+
+[01:39:09] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 255 times.
+
+[01:39:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to XAnonimusCrackX]
+[01:39:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo has reached the goal [Here They Come]
+[01:39:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:39:59] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 260 times.
+
+[01:39:59] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 260 times.
+
+[01:39:59] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 260 times.
+
+[01:39:59] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 260 times.
+
+[01:40:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:40:13] [Server thread/TRACE] [reccomplex]: OakTree canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: OakTree canceled generation at BlockPos{x=-290, y=63, z=63} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: BirchTree canceled generation at BlockPos{x=-300, y=68, z=66} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTree4 canceled generation at BlockPos{x=-291, y=69, z=61} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTreeSmall canceled generation at BlockPos{x=-288, y=66, z=61} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTree1 canceled generation at BlockPos{x=-296, y=65, z=149} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTreeBig' in StructureBoundingBox{x0=-286, y0=66, z0=159, x1=-278, y1=82, z1=167} (0)
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTree1 canceled generation at BlockPos{x=-287, y=65, z=163} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTree' in StructureBoundingBox{x0=-293, y0=65, z0=164, x1=-288, y1=75, z1=170} (0)
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTree5 canceled generation at BlockPos{x=-300, y=66, z=157} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTree2 canceled generation at BlockPos{x=-295, y=65, z=161} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: OakTreeBig canceled generation at BlockPos{x=-291, y=66, z=146} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTreeSmall' in StructureBoundingBox{x0=-294, y0=65, z0=153, x1=-289, y1=72, z1=157} (0)
+[01:40:13] [Server thread/TRACE] [reccomplex]: BirchTree1 canceled generation at BlockPos{x=-296, y=65, z=151} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTree4 canceled generation at BlockPos{x=-288, y=65, z=158} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTree2 canceled generation at BlockPos{x=-292, y=65, z=153} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: Generated structure 'OakTree' in StructureBoundingBox{x0=-292, y0=65, z0=147, x1=-281, y1=78, z1=157} (0)
+[01:40:13] [Server thread/TRACE] [reccomplex]: QuakingAspen canceled generation at BlockPos{x=-294, y=66, z=163} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTree5 canceled generation at BlockPos{x=-299, y=66, z=157} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: OakTreeBig canceled generation at BlockPos{x=-291, y=65, z=157} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=-287, y0=66, z0=151, x1=-282, y1=81, z1=157} (0)
+[01:40:13] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=-298, y0=67, z0=163, x1=-292, y1=87, z1=169} (0)
+[01:40:13] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTreeSmall' in StructureBoundingBox{x0=-298, y0=66, z0=151, x1=-293, y1=73, z1=155} (0)
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTree1 canceled generation at BlockPos{x=-293, y=65, z=153} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTree4 canceled generation at BlockPos{x=-297, y=65, z=153} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: GenericTree5 canceled generation at BlockPos{x=-287, y=65, z=154} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: BirchTree1 canceled generation at BlockPos{x=-286, y=66, z=150} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@44bbb490
+[01:40:13] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTree2' in StructureBoundingBox{x0=-296, y0=65, z0=154, x1=-285, y1=78, z1=164} (0)
+[01:40:49] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 265 times.
+
+[01:40:49] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 265 times.
+
+[01:40:49] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 265 times.
+
+[01:40:49] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 265 times.
+
+[01:40:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:41:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX was killed by magic
+[01:41:00] [Server thread/INFO] [tombstone]: The last known grave of XAnonimusCrackX is at location [name:Last Grave, x:-119, y:63, z:95] in the dimension 0
+[01:41:00] [Server thread/INFO] [tombstone]: XAnonimusCrackX has successfully been saved
+[01:41:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Toad is 0.01
+[01:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported XAnonimusCrackX to jwodo]
+[01:41:39] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 270 times.
+
+[01:41:39] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 270 times.
+
+[01:41:39] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 270 times.
+
+[01:41:39] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 270 times.
+
+[01:41:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:42:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:42:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:42:29] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 275 times.
+
+[01:42:29] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 275 times.
+
+[01:42:29] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 275 times.
+
+[01:42:29] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 275 times.
+
+[01:43:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:43:19] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 280 times.
+
+[01:43:19] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 280 times.
+
+[01:43:19] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 280 times.
+
+[01:43:19] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 280 times.
+
+[01:43:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported XAnonimusCrackX to jwodo]
+[01:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to KIRIRO11GG]
+[01:43:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Teleported KIRIRO11GG to XAnonimusCrackX]
+[01:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jwodo got revenge on El Piola
+[01:43:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for El Piola is 0.01
+[01:43:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:44:09] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 285 times.
+
+[01:44:09] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 285 times.
+
+[01:44:09] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 285 times.
+
+[01:44:09] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 285 times.
+
+[01:44:19] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [1, -10] in dimension 0 (overworld) while populating chunk [2, -9], causing cascading worldgen lag.
+[01:44:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:44:19] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 32 | -144 ], underground: false
+[01:44:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Creative Mode]
+[01:44:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:44:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Mono is 0.01
+[01:44:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Survival Mode]
+[01:44:59] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 290 times.
+
+[01:44:59] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 290 times.
+
+[01:44:59] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 290 times.
+
+[01:44:59] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 290 times.
+
+[01:45:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:45:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Mono is 0.01
+[01:45:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to KIRIRO11GG]
+[01:45:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported jwodo to KIRIRO11GG]
+[01:45:49] [Server thread/DEBUG] [FML]: The world 61a7edfe (world) may have leaked: seen 295 times.
+
+[01:45:49] [Server thread/DEBUG] [FML]: The world 67f32224 (world) may have leaked: seen 295 times.
+
+[01:45:49] [Server thread/DEBUG] [FML]: The world 30ab884b (world) may have leaked: seen 295 times.
+
+[01:45:49] [Server thread/DEBUG] [FML]: The world 2b2e2729 (world) may have leaked: seen 295 times.
+
+[01:45:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Matango is 0.01
+[01:46:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Creative Mode]
+[01:46:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XAnonimusCrackX was killed by magic
+[01:46:06] [Server thread/INFO] [tombstone]: The last known grave of XAnonimusCrackX is at location [name:Last Grave, x:-109, y:63, z:104] in the dimension 0
+[01:46:06] [Server thread/INFO] [tombstone]: XAnonimusCrackX has successfully been saved
+[01:46:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:46:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KIRIRO11GG: Set own game mode to Survival Mode]
+[01:46:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: XAnonimusCrackX moved too quickly! -9.445357218466029,1.252203340253729,-3.312665542236715
+[01:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [jwodo: Teleported XAnonimusCrackX to jwodo]

@@ -1,4 +1,10 @@
 {
+  "tombstone:tutorial/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 01:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-21 01:11:33 +0000"
@@ -8,6 +14,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-21 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 01:33:15 +0000"
     },
     "done": true
   },
@@ -32,6 +44,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-21 01:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
     },
     "done": true
   },
@@ -89,6 +107,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2024-12-21 01:12:37 +0000"
@@ -131,9 +161,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/key_ring": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 01:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2024-12-21 01:27:22 +0000"
     },
     "done": true
   },
@@ -209,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-21 01:11:30 +0000"
@@ -257,9 +305,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 01:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
     },
     "done": true
   },
@@ -317,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-21 01:11:47 +0000"
@@ -332,6 +398,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-21 01:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 01:27:22 +0000"
     },
     "done": true
   },
@@ -419,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 01:15:26 +0000"
@@ -467,9 +545,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-21 01:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-21 01:29:05 +0000"
     },
     "done": true
   },
@@ -555,6 +645,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-12-21 01:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
     },
     "done": true
   },
@@ -648,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-21 01:45:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-21 01:14:32 +0000"
@@ -696,15 +798,39 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 01:39:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 01:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-21 01:11:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2024-12-21 01:34:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-21 01:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
     },
     "done": true
   },
@@ -795,6 +921,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-21 01:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 01:33:28 +0000"
     },
     "done": true
   }
